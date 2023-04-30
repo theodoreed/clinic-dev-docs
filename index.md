@@ -3,7 +3,9 @@ title: Home
 layout: home
 ---
 
-> __Today we’re launching Clinic: a free, hosted practice-builder for doctors with a “choose your own price” subscription model. Now any doctor in the US can create their own online clinic in minutes, for any kind of medical care, and start accepting subscribers immediately. Check it out at https://clinic.dev/__
+> __Today we’re launching Clinic: a free, hosted practice-builder for doctors with a “choose your own price” subscription model. Now any doctor in the US can create their own online clinic in minutes, for any kind of medical care, and start accepting subscribers immediately. 
+> 
+> Check it out at https://clinic.dev/__
 
 # Features
 * No code clinic builder which is free to use
@@ -95,4 +97,4 @@ Legal support from <a href="https://www.buchalter.com/attorneys/andrea-r-musker/
 # Get in touch
 During our beta, customer service inquiries will be conducted exclusively over our Discord server. Please access it here: <https://discord.gg/RkK77ajn24>
 
-For providers, business partners & pharmacies, the best way to get in touch is to direct message Mark on Twitter @mrkdrew . Alternatively, we can be emailed at __admin at mps.health__. Please keep email inquiries short.
+For providers, business partners & pharmacies, the best way to get in touch is to direct message Mark on Twitter @mrkdrew. Alternatively, we can be emailed at __admin at mps.health__. Please keep email inquiries short.
