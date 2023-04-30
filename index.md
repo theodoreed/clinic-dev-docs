@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
->Today we’re launching Clinic. It’s a free hosted practice builder for doctors with a “choose your own price” subscription model. Now any doctor in the US can create their own online clinic in minutes, for any kind of medical care, and start accepting subscribers immediately. Check it out at https://clinic.dev/
+> __Today we’re launching Clinic. It’s a free hosted practice builder for doctors with a “choose your own price” subscription model. Now any doctor in the US can create their own online clinic in minutes, for any kind of medical care, and start accepting subscribers immediately. Check it out at https://clinic.dev/__
 
 # Features
 * No code clinic builder which is free to use
