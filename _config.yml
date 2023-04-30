@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Clinic.dev Docs
+description: A guide to clinic.dev 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://theodoreed.github.io/clinic-dev-docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Visit clinic.dev: https://clinic.dev
